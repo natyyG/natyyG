@@ -7,7 +7,7 @@ I am a results-driven **Technical Lead** with over 3 years of experience archite
 
 ### 🚀 Current Impact & Highlights
 * **Lead Developer (Arif Education):** Architected a EdTech platform 
-* **Architect (AdeyFee):** Built a secure School Fee Payment System integrated with **Core Banking ** and international payment gateways, reducing manual admin work by 70%.
+* **Architect (AdeyFee):** Built a secure School Fee Payment System integrated with **Core Banking** and international payment gateways, reducing manual admin work by 70%.
 * **Engineering Excellence:** Proven track record of maintaining **97.9% system uptime** while managing multi-disciplinary teams through Agile methodologies.
 
 ---
@@ -38,8 +38,7 @@ I am a results-driven **Technical Lead** with over 3 years of experience archite
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* **Portfolio:** [Your Portfolio Link or GitHub Projects]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [linkedin.com/in/natnalegetachew](https://linkedin.com/in/natnalegetachew)
+* **Email:** natnalegetachew.dev@gmail.com
 
 *"I build for scale, design for security, and lead for excellence."*
