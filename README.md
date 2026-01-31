@@ -1,5 +1,5 @@
 # Hi there, I'm Natnael Getachew 👋 
-### Technical Lead | Senior Full-Stack & Mobile Developer
+### Technical Lead | Senior Software Developer
 
 I am a results-driven **Technical Lead** with over 3 years of experience architecting scalable digital solutions for **EdTech** and **Fintech**. I currently lead a team at **AIT Technology**, where we build enterprise-grade systems that bridge the gap between education and technology.
 
